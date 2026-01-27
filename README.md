@@ -131,7 +131,8 @@ A centralized appointment booking platform for **salons, doctors, hotels, and co
 - **Microservices Roadmap:** Split modules into independent services like `Booking`, `User`, `Notification`, `Admin`  
 - **Future Enhancements:** RBAC roles, service-to-service communication, scalable deployments
 
-🔗 **Repository:** *(Add link when ready / private project)*
+🔗 **Repository:** [Orbit360](https://github.com/sourabhsingh88/Orbit360)
+
 
 ---
 
@@ -145,8 +146,7 @@ A backend-focused trading platform that supports strategy-driven workflows and s
 - Implemented clean backend architecture for modular development  
 - Focused on reliability, scalability, and maintainability  
 
-🔗 **Repository:** [Trading Platform](https://github.com/sourabhsingh88/Trading_Platform)
-
+🔗 **Repository:** 
 ---
 
 ### 🧳 Trip Planner — Smart Travel Planning App
