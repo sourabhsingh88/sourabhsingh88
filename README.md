@@ -44,7 +44,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 
 
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal 
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 
 ## 🚀 Featured Projects
 
-### 🛰️ Orbit360 — Appointment Management Platform (Ongoing)
+### 🛰️ Orbit360 — Appointment Management Platform ( Ongoing )
 **Status:** In Progress 🚧 | **Role:** Backend Developer  
 **Tech:** `Java` `Spring Boot` `Monolith → Microservices` `REST APIs` `SQL`
 
