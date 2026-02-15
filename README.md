@@ -136,7 +136,7 @@ A centralized appointment booking platform for **salons, doctors, hotels, and co
 
 ---
 
-### 📈 Trading Platform — Strategy-Based Trading System
+### 📈 Trading Platform — Strategy-Based Trading  System
 **Role:** Backend Developer | **Tech:** `FastAPI` `Python` `REST API` `SQL`
 
 A backend-focused trading platform that supports strategy-driven workflows and scalable API architecture.
