@@ -33,7 +33,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 ✅ SQL + DB design (joins, schema design, optimization basics)  
 ✅ Clean architecture (maintainable service structure)  
 ✅ DSA + problem solving (daily consistenc)  
-✅ ML basics (Regression, Preprocessing, Classification, Model Training)
+✅ ML basics (Regression, Preprocessing, Classification, Model Training )
 
 🎯 **Target Roles:** Internship / Entry-level **Software Developer (Backend / Full Stack / ML)**  
 💡 **Mindset:** Fundamentals → Projects → Production-ready skills
