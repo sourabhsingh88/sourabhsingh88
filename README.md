@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="180" alt="coding gif"/>
 
-🚀 **Backend Developer (FastAPI + Spring Boot)** focused on building **clean, scalable, production-ready APIs**.  
+🚀 **Backend Developer (FastAPI + Spring Boot )** focused on building **clean, scalable, production-ready APIs**.  
 I’m learning **Machine Learning fundamentals** to build **data-driven systems**, not just demo projects.
 
 ### ⚡ What I focus on
