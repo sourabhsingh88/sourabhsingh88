@@ -186,7 +186,7 @@ A project focused on image search/matching using machine learning fundamentals.
 
 ---
 
-## 🐍 Contribution Graph Snake
+## 🐍 Contribution Graph Snake  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
