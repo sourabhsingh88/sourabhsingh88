@@ -30,7 +30,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 
 ### ⚡ What I focus on
 ✅ API Design (validation, error handling, clean routes)  
-✅ SQL + DB design (joins, schema design, optimization basics)  
+✅ SQL + DB design (joins,  schema design, optimization basics)  
 ✅ Clean architecture (maintainable service structure)  
 ✅ DSA + problem solving (daily consistenc)  
 ✅ ML basics (Regression, Preprocessing, Classification, Model Training )
