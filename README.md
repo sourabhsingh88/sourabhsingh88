@@ -120,7 +120,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 ## 🚀 Featured Projects
 
 ### 🛰️ Orbit360 — Appointment Management Platform (Ongoing)
-**Status:** In Progress 🚧 | **Role:** Backend Developer  
+**Status:** In Progress 🚧 |  **Role:** Backend Developer  
 **Tech:** `Java` `Spring Boot` `Monolith → Microservices` `REST APIs` `SQL`
 
 A centralized appointment booking platform for **salons, doctors, hotels, and consultants** — designed for real scalability.
