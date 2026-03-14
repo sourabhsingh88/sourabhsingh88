@@ -154,7 +154,7 @@ A backend-focused trading platform that supports strategy-driven workflows and s
 
 A trip planning project that helps users plan travel with structured backend logic.
 
-#### 🔍 What I Built
+#### 🔍 What I Built 
 - Built APIs to manage trip flow (routes / scheduling logic)  
 - Implemented structured request/response handling  
 - Designed clean endpoints that scale for features  
