@@ -35,7 +35,7 @@ I’m learning **Machine Learning fundamentals**  to build **data-driven systems
 ✅ DSA + problem solving (daily consistenc)  
 ✅ ML basics (Regression, Preprocessing, Classification,  Model Training )
 
-🎯 **Target  Roles:** Internship / Entry-level **Software Developer (Backend / Full Stack/ML)**  
+🎯 **Target Roles:** Internship / Entry-level **Software Developer (Backend / Full Stack/ML)**  
 💡 **Mindset:**  Fundamentals → Projects → Production -ready skills
 
 <br clear="right"/>
