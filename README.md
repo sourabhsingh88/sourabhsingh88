@@ -124,7 +124,7 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 **Status:** In Progress 🚧 |  **Role:** Backend Developer  
 **Tech:** `Java` `Spring Boot` `Monolith → Microservices` `REST APIs` `SQL`
 
-A centralized appointment booking platform for **salons, doctors, hotels, and consultants** — designed for real scalability.
+A centralized appointment booking platform  for **salons, doctors, hotels, and consultants** — designed for real scalability.
 
 #### 🔍  What I’m Building
 - **Centralized Scheduling Engine:** One platform to handle multi-business appointment workflows  
