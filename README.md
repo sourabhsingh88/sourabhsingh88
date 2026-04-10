@@ -150,7 +150,7 @@ A backend-focused trading platform that supports strategy-driven workflows and s
 🔗 **Repository:** 
 ---
 
-### 🧳 Trip Planner — Smart Travel Planning App
+### 🧳 Trip Planner — Smart Travel  Planning App
 **Role:** Developer | **Tech:** `Python` `FastAPI` `APIs`
 
 A trip planning project that helps users plan travel with structured backend logic.
