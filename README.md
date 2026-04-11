@@ -167,7 +167,7 @@ A trip planning project that helps users plan travel with structured backend log
 ### 🖼️ Image Search Engine — ML-Based  Image Matching
 **Role:** Developer | **Tech:** `Python` `ML Basics` `Search`
 
-A project focused on image search/matching using machine learning fundamentals.
+A project focused on image  search/matching using machine learning fundamentals.
 
 #### 🔍 What I Built
 - Implemented image search pipeline fundamentals  
