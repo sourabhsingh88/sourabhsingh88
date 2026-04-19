@@ -128,7 +128,7 @@ A centralized appointment booking platform for **salons, doctors, hotels, and co
 
 #### 🔍  What I’m Building
 - **Centralized Scheduling Engine:** One platform to handle multi-business appointment workflows  
-- **Clean Architecture:** Monolith first (fast delivery), then migrate to microservices (logical scaling)  
+- **Clean Architecture:** Monolith first (fast delivery),  then migrate to microservices (logical scaling)  
 - **Microservices Roadmap:** Split modules into independent services like `Booking`, `User`, `Notification`, `Admin`  
 - **Future Enhancements:** RBAC roles, service-to-service communication, scalable deployments
 
