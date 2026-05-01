@@ -112,7 +112,6 @@ I’m learning **Machine Learning fundamentals** to build **data-driven systems*
 
 </div>
 
-
 ---
 
 
