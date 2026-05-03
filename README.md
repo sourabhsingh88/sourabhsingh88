@@ -144,7 +144,7 @@ A backend-focused trading platform that supports strategy-driven workflows and s
 
 #### 🔍 What I Built
 - Designed structured APIs for handling strategies and trade execution flows  
-- Implemented clean backend architecture for modular development  
+- Implemented clean backend architecture for modular development
 - Focused on reliability, scalability, and maintainability  
 
 🔗 **Repository:** 
