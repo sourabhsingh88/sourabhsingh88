@@ -143,7 +143,7 @@ A centralized appointment booking platform for **salons, doctors, hotels, and co
 A backend-focused trading platform that supports strategy-driven workflows and scalable API architecture.
 
 #### 🔍 What I Built
-- Designed structured APIs for handling strategies and trade execution flows  
+- Designed structured APIs for handling  strategies and trade execution flows  
 - Implemented clean backend architecture for modular development
 - Focused on reliability, scalability, and maintainability  
 
