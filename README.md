@@ -1,4 +1,4 @@
-<div align="center">
+We l<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=Sourabh+Singh+%3A%3A+Software+Developer;FastAPI+%7C+Spring+Boot+%7C+REST+APIs+%7C+SQL;Machine+Learning+Fundamentals+(Regression%2C+Classification);Open+for+Internship+%2F+Entry-level+SDE+Roles" alt="Typing SVG" />
 
@@ -26,7 +26,7 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="180" alt="coding gif"/>
 
-🚀 **Backend Developer(FastAPI + Spring Boot)** focused  on building  **clean, scalable, production-ready APIs**.  
+🚀 **Backend Developer(FastAPI + Spring Boot)** focused on building  **clean, scalable, production-ready APIs**.  
 I’m learning **Machine Learning fundamentals** to build **data-driven systems**, not just demo projects.
 
 ### ⚡ What I focus on
